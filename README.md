@@ -30,3 +30,5 @@ Le projet comprend des tests unitaires pour les principales méthodes du service
 *   Les tests sont écrits en utilisant les bibliothèques JUnit et Mockito.
 *   Les tests utilisent des "mocks" pour isoler la logique du service testée de ses dépendances externes, comme le dépôt.
 *   Les tests vérifient que le service récupère correctement les transactions du dépôt et qu'il formate la sortie comme prévu.
+
+![AccountTest](images/AccountTest.png)
